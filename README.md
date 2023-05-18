@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif" width="100"/>
 </div>
+
 ---
-### :woman_technologist: About Me :
+:woman_technologist: About Me :
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
