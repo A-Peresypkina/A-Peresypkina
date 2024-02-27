@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 ---
 Detailes about my repositories
-|File name | Description | Stack | 
-|----------| ----------- | ------|
-|Diploma_banking_final.ipynb|analysis of customer outflow of Metanprombank| pandas, numpy, seaborn, matplotlib, plotly, scipy, statsmodels |
-|Final_project_1.ipynb|study the Russian film distribution market and identify current trends|pandas, numpy, seaborn, matplotlib|
-|Marketing_research.ipynb|analysis of the company's activities Procrastinate Pro+|pandas, numpy, seaborn, matplotlib, plotly, scipy, datetime|
-|SQL_advanced.ipynb| SQL tasks| Postgresql|
-|Types_of_visualization.ipynb|prepare a market research for public catering outlets in Moscow, find interesting features for choosing a suitable location for investors|pandas, numpy, seaborn, matplotlib, plotly, folium|
-|visualization_power_bi_1.pbix|Dashboard about the job market for analysts in Europe Grade| Power BI|
-|АВ_testing.ipynb|evaluate the results of an A/B test; evaluate the correctness of the test; analyze test results;|pandas, seaborn, matplotlib, matplotlib_venn, numpy, warnings, scipy.stats, math, plotly, missingno, collections,  datetime|
+|Repository name |File name | Description | Stack | 
+|----------|----------| ----------- | ------|
+|Bank_diploma|Diploma_banking_final.ipynb|analysis of customer outflow of Metanprombank| pandas, numpy, seaborn, matplotlib, plotly, scipy, statsmodels |
+|Russian-film-distribution-market |Final_project_1.ipynb|study the Russian film distribution market and identify current trends|pandas, numpy, seaborn, matplotlib|
+|Marketing_research |Marketing_research.ipynb|analysis of the company's activities Procrastinate Pro+|pandas, numpy, seaborn, matplotlib, plotly, scipy, datetime|
+|SQL_advanced |SQL_advanced.ipynb| SQL tasks| Postgresql|
+|...|Types_of_visualization.ipynb |prepare a market research for public catering outlets in Moscow, find interesting features for choosing a suitable location for investors|pandas, numpy, seaborn, matplotlib, plotly, folium|
+|power_bi |visualization_power_bi_1.pbix|Dashboard about the job market for analysts in Europe Grade| Power BI|
+|AB-testing |АВ_testing.ipynb|evaluate the results of an A/B test; evaluate the correctness of the test; analyze test results;|pandas, seaborn, matplotlib, matplotlib_venn, numpy, warnings, scipy.stats, math, plotly, missingno, collections,  datetime|
 
