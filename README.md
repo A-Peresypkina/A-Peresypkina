@@ -53,4 +53,8 @@ Detailes about my repositories
 |...|Types_of_visualization.ipynb |prepare a market research for public catering outlets in Moscow, find interesting features for choosing a suitable location for investors|pandas, numpy, seaborn, matplotlib, plotly, folium|
 |power_bi |visualization_power_bi_1.pbix|Dashboard about the job market for analysts in Europe Grade| Power BI|
 |AB-testing |АВ_testing.ipynb|evaluate the results of an A/B test; evaluate the correctness of the test; analyze test results;|pandas, seaborn, matplotlib, matplotlib_venn, numpy, warnings, scipy.stats, math, plotly, missingno, collections,  datetime|
+|Tele2|Заданиею .xls, Задание для кандидата.xls, Презентация.pptx, Презентация.pва |knowledge tests for MS Excel| MS Excel, MS Power Point |
+|Gazprom_test_sql|test_for_Gazprom.sql | knowledge tests for SQL | PostgreSQL |
+|test-task-for-Yandex |data_YA_practice.ipynb, Задание_1_Задание_2.py, Результаты исследования_рост СРА для компании Сигма.pdf | knowledge tests for SQL | PostgreSQL, pandas, numpy, seaborn, matplotlib, plotly, MS Power Point |
+|test_for_WIB_DA|запросы.sql, создание табл.sql | knowledge tests for SQL | PostgreSQL |
 
