@@ -51,10 +51,11 @@ Detailes about my repositories
 |[Marketing_research](https://github.com/A-Peresypkina/Marketing_research)|Marketing_research.ipynb|analysis of the company's activities Procrastinate Pro+|pandas, numpy, seaborn, matplotlib, plotly, scipy, datetime|
 |[SQL_advanced](https://github.com/A-Peresypkina/SQL_advanced)|SQL_advanced.ipynb| SQL tasks| Postgresql|
 |[Research for public catering outlets in Moscow](https://github.com/A-Peresypkina/Research-for-public-catering-outlets-in-Moscow)|Types_of_visualization.ipynb |prepare a market research for public catering outlets in Moscow, find interesting features for choosing a suitable location for investors|pandas, numpy, seaborn, matplotlib, plotly, folium|
-|[Power-BI_work_examples](https://github.com/A-Peresypkina/Power-BI_work_examples)|visualization_power_bi_1.pbix|Dashboard about the job market for analysts in Europe Grade| Power BI|
+|[Power-BI_work_examples](https://github.com/A-Peresypkina/Power-BI_work_examples)| different examples | | Power BI|
 |[AB-testing](https://github.com/A-Peresypkina/AB-testing)|АВ_testing.ipynb|evaluate the results of an A/B test; evaluate the correctness of the test; analyze test results;|pandas, seaborn, matplotlib, matplotlib_venn, numpy, warnings, scipy.stats, math, plotly, missingno, collections,  datetime|
 |[Tele2](https://github.com/A-Peresypkina/Tele2)|Заданиею .xls, Задание для кандидата.xls, Презентация.pptx, Презентация.pва |knowledge tests for MS Excel| MS Excel, MS Power Point |
 |[Gazprom_test_sql](https://github.com/A-Peresypkina/Gazprom_test_sql)|test_for_Gazprom.sql | knowledge tests for SQL | PostgreSQL |
 |[Test-task-for-Yandex](https://github.com/A-Peresypkina/test-task-for-Yandex)|data_YA_practice.ipynb, Задание_1_Задание_2.py, Результаты исследования_рост СРА для компании Сигма.pdf | knowledge tests for SQL | PostgreSQL, pandas, numpy, seaborn, matplotlib, plotly, MS Power Point |
 |[Test_for_WIB_DA](https://github.com/A-Peresypkina/test_for_WIB_DA)|запросы.sql, создание табл.sql | knowledge tests for SQL | PostgreSQL |
+|[Test_for_WIB_DA](https://github.com/A-Peresypkina/test_for_WIB_DA)|dashboard_BI_Пересыпкина А. B_my_model.pbix, BI_Пересыпкина А. В.ipynb | It is necessary to make a dashboard with visualizations of information on objects, the number of events carried out by objects in the context of “Districts”, “Sources of tasks” and “Types of events”, as well as displaying the “Results” of events for the object | Power BI, python |
 
